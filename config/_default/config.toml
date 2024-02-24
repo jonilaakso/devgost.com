@@ -1,0 +1,85 @@
+baseURL = "https://devgost.com"
+languageCode = "en"
+DefaultContentLanguage = "en"
+#title = "DevGost"
+
+#Languages
+[Languages]
+  [Languages.en]
+  title = "DevGost"
+  contentDir = "content/english"
+  Weight = 1
+  LanguageName = "EN"
+
+    [[Languages.en.menu.main]]
+    url = "/"
+    identifier = "home"
+    name = "Home"
+    weight = 100
+    [[Languages.en.menu.main]]
+    url = "/blog/"
+    identifier = "Blog"
+    name = "Blog"
+    weight = 200
+
+
+  [Languages.fi]
+  title = "DevGost"
+  contentDir = "content/finnish"
+  Weight = 2
+  LanguageName = "FI"
+    [[Languages.fi.menu.main]]
+    url = "/fi/"
+    identifier = "koti"
+    name = "koti"
+    weight = 100
+    [[Languages.fi.menu.main]]
+    url = "/fi/blogi/"
+    identifier = "Blogi"
+    name = "Blogi"
+    weight = 200
+
+
+# theme as hugo module
+#theme = "github.com/lxndrblz/anatole"
+# theme as git submodule
+theme = "anatole"
+
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+# Syntax highlighting
+pygmentsUseClasses = true   
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+# Localized dates requires Hugo version 0.87.0
+localizedDates = false
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        unsafe=true
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+[[related.indices]]
+  name = 'keywords'
+  weight = 100
+[[related.indices]]
+  name = 'tags'
+  weight = 80
