@@ -1,11 +1,11 @@
 [en]
-title = "My blog"
+title = "DevGost"
 weight = 1
 LanguageName = "EN"
 contentDir = "content/english"
 
 [fi]
-title = "Blogini"
+title = "DevGost"
 weight = 2
 LanguageName ="FI"
 contentDir = "content/finnish"

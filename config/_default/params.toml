@@ -5,7 +5,7 @@ author = "DevGost.com"
 description = "Learning to Live, Living to Learn"
 profilePicture = "images/gost.png"
 keywords = ""
-favicon = "favicons/favicon.png"
+favicon = "favicons/favicon.ico"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
