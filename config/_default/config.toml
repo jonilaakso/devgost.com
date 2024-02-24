@@ -2,6 +2,15 @@ baseURL = "https://devgost.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
 #title = "DevGost"
+# theme as hugo module
+#theme = "github.com/lxndrblz/anatole"
+# theme as git submodule
+theme = "anatole"
+
+
+[params]
+contentratio = 0.7
+mainSections = ["post"]
 
 #Languages
 [Languages]
@@ -17,10 +26,15 @@ DefaultContentLanguage = "en"
     name = "Home"
     weight = 100
     [[Languages.en.menu.main]]
-    url = "/blog/"
-    identifier = "Blog"
+    url = "/post/"
+    identifier = "post"
     name = "Blog"
     weight = 200
+    [[Languages.en.menu.main]]
+    url = "/about/"
+    identifier = "About"
+    name = "About"
+    weight = 300
 
 
   [Languages.fi]
@@ -34,16 +48,18 @@ DefaultContentLanguage = "en"
     name = "koti"
     weight = 100
     [[Languages.fi.menu.main]]
-    url = "/fi/blogi/"
+    url = "/fi/post/"
     identifier = "Blogi"
     name = "Blogi"
     weight = 200
+    [[Languages.fi.menu.main]]
+    url = "/fi/about/"
+    identifier = "Tietoa minusta"
+    name = "About"
+    weight = 300
 
 
-# theme as hugo module
-#theme = "github.com/lxndrblz/anatole"
-# theme as git submodule
-theme = "anatole"
+
 
 summarylength = 10
 enableEmoji = true
@@ -83,3 +99,4 @@ localizedDates = false
 [[related.indices]]
   name = 'tags'
   weight = 80
+
