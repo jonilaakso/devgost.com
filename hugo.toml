@@ -1,0 +1,4 @@
+baseURL = 'https://devgost.com'
+languageCode = 'en-us'
+title = 'DevGost'
+theme = 'anatole'
