@@ -2,109 +2,124 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-02-24T15:53:13+02:00</lastmod>
+    <loc>https://devgost.com/</loc>
+    <lastmod>2024-02-29T19:46:37+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="http://localhost:1313/fi/"
+                href="https://devgost.com/fi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://devgost.com/"
                 />
   </url><url>
-    <loc>http://localhost:1313/post/first_post/</loc>
-    <lastmod>2024-02-24T15:53:13+02:00</lastmod>
+    <loc>https://devgost.com/tags/ethical-hacking/</loc>
+    <lastmod>2024-02-29T19:46:37+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/index/</loc>
-    <lastmod>2024-02-24T15:53:13+02:00</lastmod>
+    <loc>https://devgost.com/tags/hacking/</loc>
+    <lastmod>2024-02-29T19:46:37+02:00</lastmod>
+  </url><url>
+    <loc>https://devgost.com/tags/hackthissite/</loc>
+    <lastmod>2024-02-29T19:46:37+02:00</lastmod>
+  </url><url>
+    <loc>https://devgost.com/post/hackthissite_basic_3_walkthrough/</loc>
+    <lastmod>2024-02-29T19:46:37+02:00</lastmod>
+  </url><url>
+    <loc>https://devgost.com/tags/index/</loc>
+    <lastmod>2024-02-29T19:46:37+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="http://localhost:1313/fi/tags/index/"
+                href="https://devgost.com/fi/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/index/"
+                href="https://devgost.com/tags/index/"
                 />
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-02-24T15:53:13+02:00</lastmod>
+    <loc>https://devgost.com/post/</loc>
+    <lastmod>2024-02-29T19:46:37+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="http://localhost:1313/fi/post/"
+                href="https://devgost.com/fi/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/"
+                href="https://devgost.com/post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-02-24T15:53:13+02:00</lastmod>
+    <loc>https://devgost.com/tags/</loc>
+    <lastmod>2024-02-29T19:46:37+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="http://localhost:1313/fi/tags/"
+                href="https://devgost.com/fi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://devgost.com/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://devgost.com/post/hackthissite_basic_2_walkthrough/</loc>
+    <lastmod>2024-02-26T22:16:31+02:00</lastmod>
+  </url><url>
+    <loc>https://devgost.com/post/hackthissite_basic_1_walkthrough/</loc>
+    <lastmod>2024-02-25T21:22:03+02:00</lastmod>
+  </url><url>
+    <loc>https://devgost.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="http://localhost:1313/fi/archives/"
+                href="https://devgost.com/fi/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/archives/"
+                href="https://devgost.com/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://devgost.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="http://localhost:1313/fi/about/"
+                href="https://devgost.com/fi/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/about/"
+                href="https://devgost.com/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://devgost.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="http://localhost:1313/fi/categories/"
+                href="https://devgost.com/fi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://devgost.com/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://devgost.com/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="http://localhost:1313/fi/series/"
+                href="https://devgost.com/fi/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="https://devgost.com/series/"
                 />
   </url>
 </urlset>

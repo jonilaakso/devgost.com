@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on DevGost</title>
-    <link>http://localhost:1313/fi/series/</link>
+    <link>https://devgost.com/fi/series/</link>
     <description>Recent content in Series on DevGost</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fi</language><atom:link href="http://localhost:1313/fi/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>fi</language><atom:link href="https://devgost.com/fi/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

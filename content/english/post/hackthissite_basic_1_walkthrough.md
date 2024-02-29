@@ -1,13 +1,15 @@
 +++
 title = 'HackThisSite Basic Mission 1 walkthrough'
 date = 2024-02-25T21:22:03+02:00
-draft = true
+draft = false
+tags = ["ethical hacking", "hackthissite", "hacking"]
 +++
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Qxs45ZkEuw?si=eLxNPbzYxBM4t_sA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 This is a walkthrough of HackThisSite.org Basic mission number 1. I decided to do a video series about the basic missions, and I plan to write a write-up on each of them. 
 
+<!--more-->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Qxs45ZkEuw?si=eLxNPbzYxBM4t_sA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## For those who don't know, what is HackThisSite?
 
@@ -30,4 +32,7 @@ There isn't much to see on this one. I opened the page source code and pressed C
 
 Copy-paste the password to the password field, press submit and congrats.
 
+## My thoughts about the challenge?
+
+The challenge is indeed a "idiot test", but looking at the source code is a great way to get a view "under the hood". Developers have to ship their code before the deadline, and sometimes people forget things in a hurry. I guess it's not entirely impossible to forget a password in there (I really hope that people don't do this in the real life).
 

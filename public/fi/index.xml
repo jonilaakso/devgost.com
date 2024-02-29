@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DevGost</title>
-    <link>http://localhost:1313/fi/</link>
+    <link>https://devgost.com/fi/</link>
     <description>Recent content on DevGost</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fi</language>
-    <lastBuildDate>Sat, 24 Feb 2024 16:27:33 +0200</lastBuildDate><atom:link href="http://localhost:1313/fi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Feb 2024 16:27:33 +0200</lastBuildDate><atom:link href="https://devgost.com/fi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eka_post</title>
-      <link>http://localhost:1313/fi/post/eka_post/</link>
+      <link>https://devgost.com/fi/post/eka_post/</link>
       <pubDate>Sat, 24 Feb 2024 16:27:33 +0200</pubDate>
       
-      <guid>http://localhost:1313/fi/post/eka_post/</guid>
+      <guid>https://devgost.com/fi/post/eka_post/</guid>
       
         <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/fi/about/</link>
+      <link>https://devgost.com/fi/about/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fi/about/</guid>
+      <guid>https://devgost.com/fi/about/</guid>
       
         <description>Kuka minä olen?</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/fi/archives/</link>
+      <link>https://devgost.com/fi/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fi/archives/</guid>
+      <guid>https://devgost.com/fi/archives/</guid>
       
         <description></description>
       

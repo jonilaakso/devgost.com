@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hackthissite on DevGost</title>
+    <link>https://devgost.com/tags/hackthissite/</link>
+    <description>Recent content in Hackthissite on DevGost</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Feb 2024 19:46:37 +0200</lastBuildDate><atom:link href="https://devgost.com/tags/hackthissite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HackThisSite Basic Mission 3 walkthrough</title>
+      <link>https://devgost.com/post/hackthissite_basic_3_walkthrough/</link>
+      <pubDate>Thu, 29 Feb 2024 19:46:37 +0200</pubDate>
+      
+      <guid>https://devgost.com/post/hackthissite_basic_3_walkthrough/</guid>
+      
+        <description>&lt;p&gt;This is a walkthrough of the basic challenge 3.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>HackThisSite Basic Mission 2 walkthrough</title>
+      <link>https://devgost.com/post/hackthissite_basic_2_walkthrough/</link>
+      <pubDate>Mon, 26 Feb 2024 22:16:31 +0200</pubDate>
+      
+      <guid>https://devgost.com/post/hackthissite_basic_2_walkthrough/</guid>
+      
+        <description>&lt;p&gt;This is a walkthrough of the basic challenge 2.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>HackThisSite Basic Mission 1 walkthrough</title>
+      <link>https://devgost.com/post/hackthissite_basic_1_walkthrough/</link>
+      <pubDate>Sun, 25 Feb 2024 21:22:03 +0200</pubDate>
+      
+      <guid>https://devgost.com/post/hackthissite_basic_1_walkthrough/</guid>
+      
+        <description>&lt;p&gt;This is a walkthrough of HackThisSite.org Basic mission number 1. I decided to do a video series about the basic missions, and I plan to write a write-up on each of them.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
